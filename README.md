@@ -12,6 +12,10 @@ Leia as Instruções para instalar corretamente!👍
 
 ![image](https://github.com/JayRod6699/SergamerOS/blob/main/Screenshot%20from%202025-09-16%2018-55-45.png)
 
+![image](https://github.com/JayRod6699/SergamerOS/blob/main/Screenshot%20from%202025-09-16%2018-55-30.png)
+
+![image](https://github.com/JayRod6699/SergamerOS/blob/main/Screenshot%20from%202025-09-16%2019-19-35.png)
+
 # Instruções:
 Tenha todos os seguintes pacotes instalados de antemão: 
 
