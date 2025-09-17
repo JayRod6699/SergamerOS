@@ -52,7 +52,7 @@ output * bg /home/Mateus/Pictures/Wallpapers/default.jpeg fill
 Feito isso, o wallpaper vai aparecer assim que você reiniciar o sway
 
 *EXTRAS [custom bash, cat files e programas de terminal]:
-Para exibir aquelas incríveis artes ASCII no terminal, extraia os arquivos do cat_files.tar.gz para /home/user/ Para exibilos no terminal utilize o comando cat + o nome do arquivo, por exemplo:
+Para exibir aquelas incríveis artes ASCII no terminal, extraia os arquivos do cat_files.tar.gz para /home/user/ Para exibi-los no terminal utilize o comando cat + o nome do arquivo, por exemplo:
 
 >$ cat os
 
