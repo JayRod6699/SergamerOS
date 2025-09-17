@@ -33,15 +33,17 @@ Tenha todos os seguintes pacotes instalados de antemão:
 
 >noto-fonts-emoji
 
+>ttf-hack
+
 >fastfetch
 
-Extraia todas as pastas do arquivo config_dotfiles.tar.gz para a pasta /.config localizada em /home/<user>/
+Extraia todas as pastas do arquivo config_dotfiles.tar.gz para a pasta /.config localizada em /home/user/
 
 OBS: Essa pasta estará oculta por ter (.) no começo, ative a função de mostrar arquivos ocultos no seu gerenciador de arquivos.
 
 Extraia a pasta da configuração do Sway para /.config também. Caso você esteja usando SwayFX, adicionei uma pasta com a configuração específica chamada /SwayFX, renomeie esta pasta para apenas /sway
 
-Para que o Papel de Parede funcione, crie uma pasta chamada /Wallpapers na pasta /Pictures e cole o wallpaper desejado lá, renomeie o arquivo do wallpaper para: default.jpeg. Agora abra o arquivo config do sway localizado em /home/<user>/.config/sway/ com algum editor de texto e procure pela linha com: 
+Para que o Papel de Parede funcione, crie uma pasta chamada /Wallpapers na pasta /Pictures e cole o wallpaper desejado lá, renomeie o arquivo do wallpaper para: default.jpeg. Agora abra o arquivo config do sway localizado em /home/user/.config/sway/ com algum editor de texto e procure pela linha com: 
 output * bg /home/sergamer/Pictures/Wallpapers/default.jpeg fill
 
 Troque o sergamer pelo seu usuário, por exemplo: 
@@ -50,7 +52,7 @@ output * bg /home/Mateus/Pictures/Wallpapers/default.jpeg fill
 Feito isso, o wallpaper vai aparecer assim que você reiniciar o sway
 
 *EXTRAS [custom bash, cat files e programas de terminal]:
-Para exibir aquelas incríveis artes ASCII no terminal, extraia os arquivos do cat_files.tar.gz para /home/<user>/ Para exibilos no terminal utilize o comando cat + o nome do arquivo, por exemplo:
+Para exibir aquelas incríveis artes ASCII no terminal, extraia os arquivos do cat_files.tar.gz para /home/user/ Para exibilos no terminal utilize o comando cat + o nome do arquivo, por exemplo:
 
 >$ cat os
 
