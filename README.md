@@ -74,6 +74,9 @@ Programas extras puramente por estética:
 
 >htop
 
+Tema GTK: Midnight-green 
+Icones: Papirus-cyan
+
 AGRADECIMENTOS:
 
 u/Olhos_de_porcelana e u/Far_Departure_1580 https://github.com/milomillow
