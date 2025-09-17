@@ -74,5 +74,5 @@ Programas extras puramente por estética:
 
 AGRADECIMENTOS:
 
-u/Olhos_de_porcelana e u/Far_Departure_1580
+u/Olhos_de_porcelana e u/Far_Departure_1580 https://github.com/milomillow
 pelos wallpapers
