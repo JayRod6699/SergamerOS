@@ -1,7 +1,9 @@
 # SergamerOS👍
 Um rice linux para todos os fãs do u/sergamer2 vulgo joinha-man👍
 
-Leia as Inruções parpra instalar corretamente!👍
+Leia as Instruções parpra instalar corretamente!👍
+
+# Screenshots:
 ![image](https://github.com/JayRod6699/SergamerOS/blob/main/Screenshot%20from%202025-09-16%2019-14-36.png)
 
 ![image](https://github.com/JayRod6699/SergamerOS/blob/main/Screenshot%20from%202025-09-16%2019-03-39.png)
